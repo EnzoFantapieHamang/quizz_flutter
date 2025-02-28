@@ -1,6 +1,6 @@
 # Quizz Flutter
 
-Quizz Flutter est une petite application Flutter proposant un quiz interactif.
+Quizz Flutter is an application where you answer a quizz and then a result is printed.
 
 ## Installation
 
