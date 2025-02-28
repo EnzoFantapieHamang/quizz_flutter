@@ -1,11 +1,26 @@
-#quizz_flutter
-It's a little application in flutter that purpose a quizz.
+Quizz Flutter
+
+Quizz Flutter est une petite application Flutter proposant un quiz interactif.
 
 Installation
-Clone repository :
+
+1. Cloner le dépôt
+
 git clone https://github.com/EnzoFantapieHamang/quizz-flutter.git
-Install dependencies in your project:
+cd quizz-flutter
+
+2. Installer les dépendances
+
 flutter pub get
-Run Project.
+
+3. Exécuter le projet
+
+flutter run
+
+Prérequis
+
+Flutter doit être installé sur votre machine.
+
+Un émulateur ou un appareil physique doit être configuré.
 
 
